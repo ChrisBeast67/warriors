@@ -16,7 +16,7 @@
       emoji: '🌑',
       title: 'The Silent Watcher',
       text: 'You notice everything. You keep your thoughts to yourself, you do not trust easily, and you would rather watch a situation than get tangled in it. When you finally act, it is devastating and precise. People call you cold; you just know that every word costs something.',
-      match: 'Twigbranch, Shadowsight, Mistystar',
+      match: 'Rowanclaw, Brokenstar, Shadowsight',
       color: '#9aa596'
     },
     river: {
